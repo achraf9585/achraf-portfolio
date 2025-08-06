@@ -96,28 +96,26 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://github.com/achraf9585",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https://www.linkedin.com/in/achraf-zaafrane-3a15b288/",
     icon: "linkedin",
     newTab: true,
   },
   {
     label: "X",
-    link: "https://www.x.com/code_bucks",
+    link: "https://x.com/achrafzaafrane",
     icon: "twitter",
     newTab: true,
   },
   {
     label: "Resume",
-    link: "/resume.pdf",
+    link: "/ACHRAF_ZAAFRANE_CV.pdf",
     icon: "resume",
     newTab: true,
   },
 ];
-
-
